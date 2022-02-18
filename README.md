@@ -1,3 +1,3 @@
-# Modify this portfolio
+# This my test portfolio site
 
-Make it your own! 
+This is a portfolio template site that was deployed in React. I'm editing it to make it my own. The site is [continuously deployed on Netlify](https://trusting-banach-efb3fb.netlify.app).
