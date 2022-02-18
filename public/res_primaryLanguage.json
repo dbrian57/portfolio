@@ -84,7 +84,7 @@
     "experience": [
       {
         "company": "DigitalOcean",
-        "title": "Senior Technical Writer",
+        "title": "Senior Technical Writer II",
         "years": "10.2019 - present",
         "mainTech": [
           "Hugo"
@@ -113,6 +113,21 @@
           "CSS",
           "Markdown",
           "MadCap Flare"
+        ]
+      },
+      {
+        "company": "Dyn Inc",
+        "title": "Technical Writer",
+        "years": "04.2014 - 08.2017",
+        "mainTech": [
+          "DNS"
+        ],
+        "technologies": [
+          "Wordpress",
+          "REST API",
+          "Adobe Creative Suite",
+          "CSS",
+          "Markdown"
         ]
       }
     ]
