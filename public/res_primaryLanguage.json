@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Dan Brian. I'm a Technical Writer who believes that empathy and compassion for the user is the foundation for writing good docs. I currently specialize in writing developer friendly API documentation and tutorials for web infrastructure tools. Welcome to my portfolio site!",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -81,37 +81,36 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
+        "company": "DigitalOcean",
+        "title": "Senior Technical Writer",
         "years": "10.2019 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Hugo"
         ],
         "technologies": [
+          "OpenAPI",
           "REST API",
-          "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React",
+          "Hugo",
+          "CSS",
+          "HTML",
+          "Terraform"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Oracle",
+        "title": "Technical Writer Manager",
+        "years": "01.2017 - 09.2019",
         "mainTech": [
-          "Angular 7/8"
+          "OpenAPI"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "REST API",
+          "Postman",
+          "CSS",
+          "Markdown",
+          "MadCap Flare"
         ]
       }
     ]

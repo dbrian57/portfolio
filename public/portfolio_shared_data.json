@@ -1,16 +1,21 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
-      "titles": [ "Software Developer" ],
+      "name": "Dan Brian",
+      "titles": [ "Senior Technical Writer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/dbrian57",
           "class": "fab fa-github"
         },
         {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/dan-brian",
+          "class": "fab fa-linkedin"
+        },
+        {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/danbrian",
           "class": "fab fa-instagram"
         }
       ],

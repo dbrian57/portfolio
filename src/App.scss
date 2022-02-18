@@ -185,6 +185,9 @@ header h1 {
 .polaroid img {
 	display: block;
 	max-width: 200px;
+	max-height: 200px;
+	object-fit: cover; 
+	object-position: 60% 0;
 }
 
 .polaroid span {
