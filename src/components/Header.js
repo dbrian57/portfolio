@@ -103,10 +103,10 @@ class Header extends Component {
             <div>
               <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span>
               <br/>
-              <h1 className="mb-0">
+              <h1 className="mb-0" >
                 {name}
               </h1>
-              <div className="title-container">
+              <div className="title-container" id="header-title">
                 <HeaderTitleTypeAnimation />
               </div>
               

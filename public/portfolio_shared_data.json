@@ -1,16 +1,21 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
-      "titles": [ "Software Developer" ],
+      "name": "Dan Brian",
+      "titles": [ "Senior Technical Writer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/dbrian57",
           "class": "fab fa-github"
         },
         {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/dan-brian",
+          "class": "fab fa-linkedin"
+        },
+        {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/danbrian",
           "class": "fab fa-instagram"
         }
       ],
@@ -18,6 +23,31 @@
     },
     "skills": {
       "icons": [
+        {
+          "name": "Documentation",
+          "class": "devicon-documentation-plain",
+          "level": "70"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "70"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
+          "level": "70"
+        },
+        {
+          "name": "Hugo",
+          "class": "devicon-hugo-plain",
+          "level": "70"
+        },
         {
           "name": "HTML 5",
           "class": "devicon-html5-plain",
@@ -29,39 +59,14 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
+          "name": "Terraform",
+          "class": "devicon-terraform-plain",
           "level": "70"
-        },
-        {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
         },
         {
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"
-        },
-        {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
         }
       ]
     }

@@ -27,6 +27,7 @@ html {
 .header-icon {
 	height: 150px;
 	width: 150px;
+	color:rgba(255, 201, 24, 1)
 }
 
 header {
@@ -38,13 +39,15 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #dfaa25;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 	padding-top: 150px;
 	padding-bottom: 0;
+	background-image: url("main-bg.png");
+	opacity: 0.90;
 }
 
 header .nav {
@@ -95,10 +98,15 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
+	color: rgba(255, 201, 24, 1);
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
+}
+
+#header-title {
+	color: rgba(255, 201, 24, 1);
+	font-size: 20px;
 }
 
 .slider-image {
@@ -120,7 +128,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: #a02856;
 	overflow: hidden;
 }
 
@@ -185,6 +193,9 @@ header h1 {
 .polaroid img {
 	display: block;
 	max-width: 200px;
+	max-height: 200px;
+	object-fit: cover; 
+	object-position: 60% 0;
 }
 
 .polaroid span {
@@ -231,7 +242,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #dfaa25;
 }
 
 .experience-icon {
@@ -353,7 +364,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #a02856;
 	padding-bottom: 5%;
 }
 
